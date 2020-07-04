@@ -1,0 +1,7 @@
+time="2018-09-09T13:27:05-07:00" level=error msg="Some error, continue"
+time="2018-09-09T13:27:05-07:00" level=warning msg="Warning....crash to ground imminent."
+time="2018-09-09T13:27:05-07:00" level=debug msg="Just debugging information."
+time="2018-09-09T13:27:05-07:00" level=debug msg="debug info" config=/usr/18.31/config/deploy-config.json pkgdir=/usr/local/18.31
+time="2018-09-09T13:27:05-07:00" level=info msg="debug info" config=/usr/18.31/config/deploy-config.json pkgdir=/usr/local/18.31
+time="2018-09-09T13:27:05-07:00" level=info msg="Simple, Info"
+time="2018-09-09T13:27:05-07:00" level=fatal msg="Abort!"
